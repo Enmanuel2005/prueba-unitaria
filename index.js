@@ -1,5 +1,5 @@
 const holaMundo = () => {
-    console.log('Hola Mundo!')
+    return "Hola Mundo!";
 }
 
-export default holaMundo
+module.exports = holaMundo;
